@@ -12,6 +12,8 @@
 - [ ] Power bank
 - [ ] Water bottle
 - [ ] Snack
+- [ ] Headphones
+- [ ] Personal kit
 
 ## Tech
 - [ ] Work laptop & phone
